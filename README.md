@@ -6,7 +6,9 @@ During this project I will create a model that predicts whether or not a custome
 
 # Files descriptions :
 
-  Please download the two datasets in my google drive and unzip the file using 7-Zip File Manager to retrive the CSV files.
+  Please download the two datasets in my google drive and unzip the file using 7-Zip File Manager to retreive the CSV files.
+
+  https://drive.google.com/drive/folders/1-3D3sOf0pVTCLFVZtccG8fMv6Iw6qSlm?usp=sharing_eip_m&ts=660aba33
  
  1. train_dataset_churn.csv file : Used to train our model
  2. test_dataset_churn.csv file : New data to predict using the built model     
