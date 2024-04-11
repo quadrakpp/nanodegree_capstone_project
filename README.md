@@ -12,3 +12,15 @@ During this project I will create a model that predicts whether or not a custome
  
  1. train_dataset_churn.csv file : Used to train our model
  2. test_dataset_churn.csv file : New data to predict using the built model     
+
+# Summary of the results :
+
+  At the end of this project, we succeeded to put in place a model able to predict to churn status with an acceptable level of evaluation metrics focused on "precision" and "recall" (85% and 
+  more).
+  We also written a blog post for a technical audience in order to present our work :
+
+  https://medium.com/@kowapatrick/customers-churn-predicting-in-telecom-company-fc1fd8ef2771
+
+# Acknowledgements :
+
+  My express gratitude and recognition to Khanyi Noganta (https://www.linkedin.com/in/khanyisa-noganta) for the support, advice and guidance during this project.
